@@ -36,6 +36,9 @@
 		"BG_BACKDROP": [
 			"#0B130B"
 		],
+   "BG_SURFACE_OVERLAY_TMP": [
+     "#0B130B"
+   ],
 		"BACKGROUND_PRIMARY": [
 			"#0B130B"
 		],
