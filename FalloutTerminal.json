@@ -1,6 +1,6 @@
 {
 	"name": "Fallout-Terminal",
-	"version": "1.3.14",
+	"version": "1.3.28",
 	"description": "A Fallout Terminal theme. Originally planned to be a port of (https://github.com/Starless-5338/Aliucord-theme_Fallout-terminal), this theme for Pyoncord was inspired by starless' work and written from the ground up for Bunny/Pyoncord!.",
 	"authors": [
 		{
@@ -329,7 +329,8 @@
 	},
 	"plus": {
 		"version": "0",
-		"customOverlays": true,
+		"mentionLineColor": "#06D50E",
+   "customOverlays": true,
 		"iconpack": "md3",
 		"icons": {
 	 	"StatusStreaming": "#06D50E",
@@ -338,7 +339,22 @@
 		"StatusDND": "#06D50E",
 		"StatusOffline": "#06D50E",
 		"StatusOnline": "#06D50E",
-   "mentionLineColor": "#06D50E"
+   "ic_mic_24px": "#06D50E",
+   "ic_mic_neutral": "#06D50E",
+   "mic": "#06D50E",
+   "img_nitro_remixing": "#06D50E",
+   "ic_gift": "#06D50E",
+   "ic_add_18px": "#06D50E",
+   "arrow-right": "#06D50E",
+   "add_white": "#06D50E",
+   "ic_send": "#06D50E",
+   "AppsIcon": "#06D50E",
+   "ArrowLargeRightIcon": "#06D50E",
+   "ActivitiesIcon": "#06D50E",
+   "ImagePlusIcon": "#06D50E",
+   "ic_upload_24px": "#06D50E",
+   "ImageFileIcon": "#06D50E",
+   "CirclePlusIcon-primary": "#06D50E"
 		}
 	},
 	"spec": 2
