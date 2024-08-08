@@ -268,7 +268,8 @@
 		"StatusIdle": "#06D50E",
 		"StatusDND": "#06D50E",
 		"StatusOffline": "#06D50E",
-		"StatusOnline": "#06D50E"
+		"StatusOnline": "#06D50E",
+   "ic_emoji_picker_20px": "06D50E"
 		}
 	},
 	"spec": 2
