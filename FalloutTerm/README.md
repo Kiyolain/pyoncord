@@ -1,6 +1,6 @@
 # Fallout Terminal Theme for Pyoncord
 ***Raw Link***
-https://raw.githubusercontent.com/Kiyolain/pyoncord/main/FalloutTerminal.json
+https://raw.githubusercontent.com/Kiyolain/pyoncord/main/FalloutTerm/FalloutTerm.json
 
 ## About
 
