@@ -13,40 +13,40 @@
 			"#00000000"
 		],
 		"TEXT_LINK": [
-			"#FF06D50E"
+			"#06D50E"
 		],
 		"TEXT_PRIMARY": [
-			"#FF06D50E"
+			"#06D50E"
 		],
 		"TEXT_SECONDARY": [
-			"#FF06D50E"
+			"#06D50E"
 		],
 		"TEXT_MUTED": [
-			"#FF06D50E"
+			"#06D50E"
 		],
 		"TEXT_DANGER": [
-			"#FF06D50E"
+			"#06D50E"
 		],
 		"TEXT_SUCCESS": [
-			"FF06D50E"
+			"#06D50E"
 		],
 		"TEXT_WARNING": [
-			"#FF06D50E"
+			"#06D50E"
 		],
 		"BG_BACKDROP": [
-			"#FF0B130B"
+			"#0B130B"
 		],
 		"BACKGROUND_PRIMARY": [
-			"#FF0B130B"
+			"#0B130B"
 		],
 		"BACKGROUND_SECONDARY": [
-			"#FF0B130B"
+			"#0B130B"
 		],
 		"BACKGROUND_SECONDARY_ALT": [
-			"#FF0B130B"
+			"#0B130B"
 		],
 		"BACKGROUND_TERTIARY": [
-			"#FF0B130B"
+			"#0B130B"
 		],
 		"BACKGROUND_ACCENT": [
 			"#2306D50E"
