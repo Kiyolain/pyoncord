@@ -1,7 +1,7 @@
 # Fallout Terminal Theme for Pyoncord
 ***Raw Link***
 https://raw.githubusercontent.com/Kiyolain/pyoncord/main/FalloutTerm/FalloutTerm.json
-
+***Themes+ Compatible*** **= (YES!)**
 ## About
 
 This theme is designed to replicate the iconic look of the terminals from the Fallout game series. It provides a retro, green-on-black interface reminiscent of the VaultTec(r) terminals. What was originally planned to be a port of https://github.com/Starless-5338/Aliucord-theme_Fallout-terminal turned into a complete re-write from scratch. 
