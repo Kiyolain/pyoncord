@@ -9,7 +9,25 @@
 		}
 	],
 	"semanticColors": {
-		"ANDROID_RIPPLE": [
+"ALERT_BG": [
+
+"#06D50E"
+
+],
+
+"ANDROID_NAVIGATION_BAR_BACKGROUND": [
+
+"#06D50E"
+
+],
+
+"ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+
+"#06D50E"
+
+],	
+
+"ANDROID_RIPPLE": [
 			"#00000000"
 		],
   	"TEXT_BRAND": [
