@@ -364,7 +364,10 @@
    "ic_mic_light_circle": "#06D50E",
    "MicrophoneIcon": "#06D50E",
    "MicrophoneSlashIcon": "#06D50E",
-   "MicrophoneArrowRightIcon": "#06D50E"
+   "MicrophoneArrowRightIcon": "#06D50E",
+   "ic_add_24px": "#06D50E",
+   "ic_add_circle": "#06D50E",
+   "hub-add": "#06D50E"
 		}
 	},
 	"spec": 2
