@@ -12,54 +12,54 @@
 		"ANDROID_RIPPLE": [
 			"#00000000"
 		],
-		"TEXT_BRAND": [
-      "#06D50E"
-    ],
-    "TEXT_LINK_LOW_SATURATION": [
-      "#06D50E"
-    ],
-    "TEXT_LOW_CONTRAST": [
-      "#06D50E"
-    ],
-    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-      "#06D50E"
-    ],
-    "TEXT_MUTED_ON_DEFAULT": [
-      "#06D50E"
-    ],
-    "TEXT_POSITIVE": [
-      "#06D50E"
-    ],
-    "TEXTBOX_MARKDOWN_SYNTAX": [
-      "#06D50E"
-    ],
-    "THEME_LOCKED_BLUR_FALLBACK": [
-      "#0B130B"
-    ],
-    "THREAD_CHANNEL_SPINE": [
-      "#06D50E"
-    ],
-    "TOAST_BG": [
-      "#06D50E"
-    ],
-    "TYPING_INDICATOR_BG": [
-      "#06D50E"
-    ],
-    "DIVIDER_STRONG": [
-      "#06D50E"
-    ],
-    "DIVIDER_SUBTLE": [
-      "#f0D50E"
-    ],
-    "EMBED_BACKGROUND": [
-      "#0B130B"
-    ],
-    "EMBED_BACKGROUND_ALTERNATE": [
-      "#0B130B"
-    ],
-    "EMBED_TITLE": [
-      "#06D50E"
-    ],
+  	"TEXT_BRAND": [
+     "#06D50E"
+   ],
+   "TEXT_LINK_LOW_SATURATION": [
+     "#06D50E"
+   ],
+   "TEXT_LOW_CONTRAST": [
+     "#06D50E"
+   ],
+   "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
+     "#06D50E"
+   ],
+   "TEXT_MUTED_ON_DEFAULT": [
+     "#06D50E"
+   ],
+   "TEXT_POSITIVE": [
+     "#06D50E"
+   ],
+   "TEXTBOX_MARKDOWN_SYNTAX": [
+     "#06D50E"
+   ],
+   "THEME_LOCKED_BLUR_FALLBACK": [
+     "#0B130B"
+   ],
+   "THREAD_CHANNEL_SPINE": [
+     "#06D50E"
+   ],
+   "TOAST_BG": [
+     "#06D50E"
+   ],
+   "TYPING_INDICATOR_BG": [
+     "#06D50E"
+   ],
+   "DIVIDER_STRONG": [
+     "#06D50E"
+   ],
+   "DIVIDER_SUBTLE": [
+     "#f0D50E"
+   ],
+   "EMBED_BACKGROUND": [
+     "#0B130B"
+   ],
+   "EMBED_BACKGROUND_ALTERNATE": [
+     "#0B130B"
+   ],
+   "EMBED_TITLE": [
+     "#06D50E"
+   ],
 		"TEXT_LINK": [
 			"#06D50E"
 		],
