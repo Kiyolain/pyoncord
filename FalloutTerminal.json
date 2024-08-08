@@ -354,7 +354,8 @@
    "ImagePlusIcon": "#06D50E",
    "ic_upload_24px": "#06D50E",
    "ImageFileIcon": "#06D50E",
-   "CirclePlusIcon-primary": "#06D50E"
+   "CirclePlusIcon-primary": "#06D50E",
+   "img_guild_folder": "#06D50E"
 		}
 	},
 	"spec": 2
