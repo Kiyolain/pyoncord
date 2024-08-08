@@ -46,7 +46,7 @@
      "#06D50E"
    ],
    "TEXT_POSITIVE": [
-     "#06D50E"
+     "#ff0000"
    ],
    "TEXTBOX_MARKDOWN_SYNTAX": [
      "#06D50E"
@@ -85,7 +85,7 @@
 			"#06D50E"
 		],
 		"TEXT_SECONDARY": [
-			"#ff0000"
+			"#06D50E"
 		],
 		"TEXT_MUTED": [
 			"#06D50E"
