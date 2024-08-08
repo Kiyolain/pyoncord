@@ -1,7 +1,7 @@
 {
 	"name": "Fallout-Terminal",
 	"version": "1.4.0",
-	"description": "A Fallout Terminal theme. Originally planned to be a port of (https://github.com/Starless-5338/Aliucord-theme_Fallout-terminal), this theme for Pyoncord was inspired by starless' work and written from the ground up for Bunny/Pyoncord!.",
+	"description": "A Fallout Terminal theme. Originally planned to be a port of (https://github.com/Starless-5338/Aliucord-theme_Fallout-terminal), this theme for Pyoncord was inspired by starless' work and written from the ground up for Bunny/Pyoncord!. (New and In-Progress)",
 	"authors": [
 		{
 			"name": "@kiyolain",
@@ -9,28 +9,19 @@
 		}
 	],
 	"semanticColors": {
-"ALERT_BG": [
-
-"#06D50E"
-
-],
-
-"ANDROID_NAVIGATION_BAR_BACKGROUND": [
-
-"#06D50E"
-
-],
-
-"ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-
-"#06D50E"
-
-],	
-
-"ANDROID_RIPPLE": [
-			"#00000000"
-		],
-  	"TEXT_BRAND": [
+   "ALERT_BG": [
+   "#06D50E"
+   ],
+   "ANDROID_NAVIGATION_BAR_BACKGROUND": [
+     "#06D50E"
+   ],
+   "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+     "#06D50E"
+   ],	
+   "ANDROID_RIPPLE": [
+     "#00000000"
+   ],
+   "TEXT_BRAND": [
      "#06D50E"
    ],
    "TEXT_NORMAL": [
