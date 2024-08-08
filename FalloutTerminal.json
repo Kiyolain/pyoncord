@@ -255,18 +255,18 @@
 		"PLUM_23": "#06D50E",
 		"BLACK_500": "#0B130B"
 	},
-	//"plus": {
-	//	"version": "0",
-	//	"customOverlays": true,
-	//	"iconpack": "rosiecord-plumpy",
-	//	"icons": {
-	//		"StatusStreaming": "#06D50E",
-	//		"StatusMobileOnline": "#06D50E",
-	//		"StatusIdle": "#06D50E",
-	//		"StatusDND": "#06D50E",
-	//		"StatusOffline": "#06D50E",
-	//		"StatusOnline": "#06D50E"
-	//	}
+	"plus": {
+		"version": "0",
+		"customOverlays": true,
+		"iconpack": "rosiecord-plumpy",
+		"icons": {
+	 	"StatusStreaming": "#06D50E",
+			"StatusMobileOnline": "#06D50E",
+			"StatusIdle": "#06D50E",
+			"StatusDND": "#06D50E",
+			"StatusOffline": "#06D50E",
+			"StatusOnline": "#06D50E"
+		}
 	},
 	"spec": 2
 }
