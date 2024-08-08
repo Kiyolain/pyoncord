@@ -37,7 +37,7 @@
      "#06D50E"
    ],
    "TEXT_LOW_CONTRAST": [
-     "#06D50E"
+     "#ff0000"
    ],
    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
      "#06D50E"
@@ -46,7 +46,7 @@
      "#06D50E"
    ],
    "TEXT_POSITIVE": [
-     "#ff0000"
+     "#06D50E"
    ],
    "TEXTBOX_MARKDOWN_SYNTAX": [
      "#06D50E"
