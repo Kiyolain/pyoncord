@@ -22,7 +22,7 @@
      "#00000000"
    ],
    "TEXT_BRAND": [
-     "#06D50E"
+     "#05A30B"
    ],
    "TEXT_NORMAL": [
      "#06D50E"
@@ -37,13 +37,13 @@
      "#06D50E"
    ],
    "TEXT_LOW_CONTRAST": [
-     "#ff0000"
+     "#06D50E"
    ],
    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
      "#06D50E"
    ],
    "TEXT_MUTED_ON_DEFAULT": [
-     "#06D50E"
+     "#05A30B"
    ],
    "TEXT_POSITIVE": [
      "#06D50E"
@@ -88,7 +88,7 @@
 			"#06D50E"
 		],
 		"TEXT_MUTED": [
-			"#06D50E"
+			"#05A30B"
 		],
 		"TEXT_DANGER": [
 			"#06D50E"
