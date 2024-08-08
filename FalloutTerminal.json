@@ -76,31 +76,31 @@
 			"#F006D50E"
 		],
 		"INTERACTIVE_NORMAL": [
-			"#2306D50E"
+			"#f006D50E"
 		],
 		"INTERACTIVE_HOVER": [
-			"#2306D50E"
+			"#f006D50E"
 		],
 		"INTERACTIVE_ACTIVE": [
-			"#2306D50E"
+			"#f006D50E"
 		],
 		"INTERACTIVE_MUTED": [
-			"#2306D50E"
+			"#f006D50E"
 		],
 		"CHANNELTEXTAREA_BACKGROUND": [
-			"#2306D50E"
+			"#f006D50E"
 		],
 		"CHANNEL_ICON": [
-			"#2306D50E"
+			"#f006D50E"
 		],
 		"CHANNELS_DEFAULT": [
-			"#2306D50E"
+			"#f006D50E"
 		],
 		"CHAT_BACKGROUND": [
-			"#FF0B130B"
+			"#f00B130B"
 		],
 		"SPOILER_HIDDEN_BACKGROUND": [
-			"#2306D50E"
+			"#f006D50E"
 		],
 		"KEYBOARD": [
 			"#0B130B"
@@ -115,13 +115,13 @@
 			"#06D50E"
 		],
 		"BG_MOD_FAINT": [
-			"#2306D50E"
-		],
-		"BG_MOD_SUBTLE": [
 			"#6006D50E"
 		],
+		"BG_MOD_SUBTLE": [
+			"#9006D50E"
+		],
 		"BG_MOD_STRONG": [
-			"#06D50E"
+			"#f0D50E"
 		],
 		"CARD_PRIMARY_BG": [
 			"#0B130B"
@@ -148,13 +148,13 @@
 			"#0B130B"
 		],
 		"BORDER_FAINT": [
-			"#2306D50E"
+			"#6006D50E"
 		],
 		"BORDER_STRONG": [
-			"#06D50E"
+			"#F006D50E"
 		],
 		"BORDER_SUBTLE": [
-			"#6006D50E"
+			"#9006D50E"
 		]
 	},
 	"rawColors": {
@@ -255,18 +255,18 @@
 		"PLUM_23": "#06D50E",
 		"BLACK_500": "#0B130B"
 	},
-	"plus": {
-		"version": "0",
-		"customOverlays": true,
-		"iconpack": "rosiecord-plumpy",
-		"icons": {
-			"StatusStreaming": "#06D50E",
-			"StatusMobileOnline": "#06D50E",
-			"StatusIdle": "#06D50E",
-			"StatusDND": "#06D50E",
-			"StatusOffline": "#06D50E",
-			"StatusOnline": "#06D50E"
-		}
-	},
-	"spec": 2
-}
+	//"plus": {
+	//	"version": "0",
+	//	"customOverlays": true,
+	//	"iconpack": "rosiecord-plumpy",
+	//	"icons": {
+	//		"StatusStreaming": "#06D50E",
+	//		"StatusMobileOnline": "#06D50E",
+	//		"StatusIdle": "#06D50E",
+	//		"StatusDND": "#06D50E",
+	//		"StatusOffline": "#06D50E",
+	//		"StatusOnline": "#06D50E"
+	//	}
+	//},
+	//"spec": 2
+//}
