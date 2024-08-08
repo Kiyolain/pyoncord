@@ -256,7 +256,8 @@
 		"PLUM_20": "#000000",
 		"PLUM_22": "#000000",
 		"PLUM_23": "#06D50E",
-		"BLACK_500": "#0B130B"
+		"BLACK_500": "#0B130B",
+   "ic_emoji_picker_20px": "06D50E"
 	},
 	"plus": {
 		"version": "0",
