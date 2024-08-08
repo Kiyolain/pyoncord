@@ -1,7 +1,7 @@
 {
 	"name": "Fallout-Terminal",
 	"version": "1.1.1",
-	"description": "A Fallout Terminal theme. Originally inspired by the FALLOUT_TERMINAL theme by starless.5338 for Aliucord, this theme was made from the ground up for Bunny/Pyoncord!.",
+	"description": "A Fallout Terminal theme. Originally planned to be a port of the FALLOUT_TERMINAL theme by starless.5338 for Aliucord, this theme for Pyoncord was made inspired by starless' work and written from the ground up for Bunny/Pyoncord!.",
 	"authors": [
 		{
 			"name": "@kiyolain",
