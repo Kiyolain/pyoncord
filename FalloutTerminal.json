@@ -325,8 +325,7 @@
 		"PLUM_20": "#000000",
 		"PLUM_22": "#000000",
 		"PLUM_23": "#06D50E",
-		"BLACK_500": "#0B130B",
-   "ic_emoji_picker_20px": "06D50E"
+		"BLACK_500": "#0B130B"
 	},
 	"plus": {
 		"version": "0",
@@ -338,7 +337,7 @@
 		"StatusIdle": "#06D50E",
 		"StatusDND": "#06D50E",
 		"StatusOffline": "#06D50E",
-		"StatusOnline": "#06D50E",
+		"StatusOnline": "#06D50E"
 		}
 	},
 	"spec": 2
