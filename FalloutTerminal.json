@@ -267,6 +267,6 @@
 	//		"StatusOffline": "#06D50E",
 	//		"StatusOnline": "#06D50E"
 	//	}
-	//},
-	//"spec": 2
-//}
+	},
+	"spec": 2
+}
