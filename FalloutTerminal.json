@@ -169,13 +169,13 @@
 			"#06D50E"
 		],
 		"BG_MOD_FAINT": [
-			"#6006D50E"
+			"#06D50E"
 		],
 		"BG_MOD_SUBTLE": [
-			"#9006D50E"
+			"#06D50E"
 		],
 		"BG_MOD_STRONG": [
-			"#f0D50E"
+			"#06D50E"
 		],
 		"CARD_PRIMARY_BG": [
 			"#0B130B"
