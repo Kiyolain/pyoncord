@@ -338,8 +338,8 @@
 	},
 	"plus": {
 		"version": "0",
-		"mentionLineColor": "#ff0000",
-   "customOverlays": true,
+		"mentionLineColor": "#06D50E",
+   "customOverlays": false,
 		"iconpack": "md3",
 		"icons": {
 	 	"StatusStreaming": "#06D50E",
