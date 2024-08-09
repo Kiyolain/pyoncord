@@ -157,16 +157,16 @@
      "#0B130B"
    ],
 		"INTERACTIVE_NORMAL": [
-			"#ff0000"
+			"#06D50E"
 		],
 		"INTERACTIVE_HOVER": [
-			"#ff0000"
+			"#06D50E"
 		],
 		"INTERACTIVE_ACTIVE": [
-			"#ff0000"
+			"#06D50E"
 		],
 		"INTERACTIVE_MUTED": [
-			"#ff0000"
+			"#06D50E"
 		],
 		"CHANNELTEXTAREA_BACKGROUND": [
 			"#06D50E"
@@ -181,7 +181,7 @@
 			"#0B130B"
 		],
 		"SPOILER_HIDDEN_BACKGROUND": [
-			"#06D50E"
+			"#ff0000"
 		],
 		"KEYBOARD": [
 			"#0B130B"
