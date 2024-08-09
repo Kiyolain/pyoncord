@@ -1,6 +1,6 @@
 {
   "name": "Fallout-Terminal",
-  "version": "0.4.1",
+  "version": "0.4.54",
   "description": "A Fallout Terminal theme. Originally planned to be a port of (https://github.com/Starless-5338/Aliucord-theme_Fallout-terminal), this theme for Pyoncord was inspired by starless' work and written from the ground up for Bunny/Pyoncord!. (New and In-Progress)",
   "authors": [
     {
@@ -176,13 +176,14 @@
     "WHITE_500": "#06D50E",
     "PLUM_13": "#06D50E",
     "PLUM_15": "#06D50E",
-    "PLUM_16": "#000000",
+    "PLUM_16": "#1F272F",
     "PLUM_17": "#06D50E",
-    "PLUM_18": "#1F272F",
+    "PLUM_18": "#1B130B",
     "PLUM_19": "#000000",
-    "PLUM_20": "#000000",
+    "PLUM_20": "#0B130B",
     "PLUM_22": "#000000",
     "PLUM_23": "#06D50E",
+    "PLUM_24": "#0B130B",
     "BLACK_500": "#0B130B"
   },
   "spec": 2
