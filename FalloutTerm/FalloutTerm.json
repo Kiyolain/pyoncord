@@ -127,7 +127,7 @@
 			"#0B130B"
 		],
 		"BACKGROUND_ACCENT": [
-			"#ff0000"
+			"#06D50E"
 		],
 		"BACKGROUND_FLOATING": [
 			"#0B130B"
@@ -338,7 +338,7 @@
 	},
 	"plus": {
 		"version": "0",
-		"mentionLineColor": "#06D50E",
+		"mentionLineColor": "#ff0000",
    "customOverlays": true,
 		"iconpack": "md3",
 		"icons": {
