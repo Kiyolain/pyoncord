@@ -84,12 +84,13 @@
     "REDESIGN_BUTTON_SECONDARY_BORDER": ["#06D50E"],
     "BORDER_FAINT": ["#06D50E"],
     "BORDER_STRONG": ["#06D50E"],
-    "BORDER_SUBTLE": ["#06D50E"]
+    "BORDER_SUBTLE": ["#06D50E"],
+    "MENTION_BACKGROUND": ["#0B130B"]
   },
   "rawColors": {
     "BRAND_260": "#06D50E",
     "BRAND_360": "#06D50E",
-    "BRAND_500": "#0000FF",
+    "BRAND_500": "#06D50E",
     "GREEN_100": "#06D50E",
     "GREEN_130": "#06D50E",
     "GREEN_160": "#06D50E",
@@ -177,7 +178,7 @@
     "PLUM_15": "#06D50E",
     "PLUM_16": "#000000",
     "PLUM_17": "#06D50E",
-    "PLUM_18": "#FF0000",
+    "PLUM_18": "#06D50E",
     "PLUM_19": "#000000",
     "PLUM_20": "#000000",
     "PLUM_22": "#000000",
