@@ -188,5 +188,10 @@
     "PLUM_24": "#0B130B",
     "BLACK_500": "#0B130B"
   },
+  "background": {
+    "blur": 0,
+    "url": "https://github.com/Kiyolain/pyoncord/blob/main/assets/terminal_bg.gif?raw=true",
+    "alpha": 1
+  }
   "spec": 2
 }
