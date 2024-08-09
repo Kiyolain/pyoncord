@@ -25,7 +25,7 @@
      "#05A30B"
    ],
    "TEXT_NORMAL": [
-     "#06D50E"
+     "#ff0000, #06D50E"
    ],
    "HEADER_SECONDARY": [
      "#06D50E"
