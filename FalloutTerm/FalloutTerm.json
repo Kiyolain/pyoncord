@@ -1,386 +1,192 @@
 {
-	"name": "Fallout-Terminal",
-	"version": "0.4.1",
-	"description": "A Fallout Terminal theme. Originally planned to be a port of (https://github.com/Starless-5338/Aliucord-theme_Fallout-terminal), this theme for Pyoncord was inspired by starless' work and written from the ground up for Bunny/Pyoncord!. (New and In-Progress)",
-	"authors": [
-		{
-			"name": "@kiyolain",
-			"id": "1129994477960962158"
-		}
-	],
-	"semanticColors": {
-   "ALERT_BG": [
-   "#0B130B"
-   ],
-   "ANDROID_NAVIGATION_BAR_BACKGROUND": [
-     "#0B130B"
-   ],
-   "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-     "#0B130B"
-   ],	
-   "ANDROID_RIPPLE": [
-     "#00000000"
-   ],
-   "TEXT_BRAND": [
-     "#06D50E"
-   ],
-   "TEXT_NORMAL": [
-     "#06D50E"
-   ],
-   "HEADER_SECONDARY": [
-     "#06D50E"
-   ],
-   "HEADER_PRIMARY": [
-     "#06D50E"
-   ],
-   "TEXT_LINK_LOW_SATURATION": [
-     "#06D50E"
-   ],
-   "TEXT_LOW_CONTRAST": [
-     "#06D50E"
-   ],
-   "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-     "#06D50E"
-   ],
-   "TEXT_MUTED_ON_DEFAULT": [
-     "#06D50E"
-   ],
-   "TEXT_POSITIVE": [
-     "#06D50E"
-   ],
-   "TEXTBOX_MARKDOWN_SYNTAX": [
-     "#06D50E"
-   ],
-   "THEME_LOCKED_BLUR_FALLBACK": [
-     "#0B130B"
-   ],
-   "THREAD_CHANNEL_SPINE": [
-     "#06D50E"
-   ],
-   "TOAST_BG": [
-     "#0B130B"
-   ],
-   "TYPING_INDICATOR_BG": [
-     "#0B130B"
-   ],
-   "DIVIDER_STRONG": [
-     "#06D50E"
-   ],
-   "DIVIDER_SUBTLE": [
-     "#06D50E"
-   ],
-   "EMBED_BACKGROUND": [
-     "#0B130B"
-   ],
-   "EMBED_BACKGROUND_ALTERNATE": [
-     "#0B130B"
-   ],
-   "EMBED_TITLE": [
-     "#06D50E"
-   ],
-		"TEXT_LINK": [
-			"#06D50E"
-		],
-		"TEXT_PRIMARY": [
-			"#06D50E"
-		],
-		"TEXT_SECONDARY": [
-			"#06D50E"
-		],
-		"TEXT_MUTED": [
-			"#06D50E"
-		],
-		"TEXT_DANGER": [
-			"#06D50E"
-		],
-		"TEXT_SUCCESS": [
-			"#06D50E"
-		],
-		"TEXT_WARNING": [
-			"#06D50E"
-		],
-		"BG_BACKDROP": [
-			"#0B130B"
-		],
-   "PANEL_BG": [
-     "#0B130B"
-   ],
-   "HOME_BACKGROUND": [
-     "#0B130B"
-   ],
-   "HOME_CARD_RESTING_BORDER": [
-     "#06D50E"
-   ],
-   "BG_SURFACE_OVERLAY_TMP": [
-     "#0B130B"
-   ],
-		"BACKGROUND_PRIMARY": [
-			"#0B130B"
-		],
-		"BACKGROUND_SECONDARY": [
-			"#0B130B"
-		],
-		"BACKGROUND_SECONDARY_ALT": [
-			"#0B130B"
-		],
-		"BACKGROUND_TERTIARY": [
-			"#0B130B"
-		],
-		"BACKGROUND_ACCENT": [
-			"#06D50E"
-		],
-		"BACKGROUND_FLOATING": [
-			"0B130B"
-		],
-		"BACKGROUND_MOBILE_PRIMARY": [
-			"#0B130B"
-		],
-		"BACKGROUND_MOBILE_SECONDARY": [
-			"#06D50E"
-		],
-		"BACKGROUND_NESTED_FLOATING": [
-			"#0B130B"
-		],
-		"BACKGROUND_MESSAGE_HOVER": [
-			"06D50E"
-		],
-		"BACKGROUND_MODIFIER_HOVER": [
-			"06D50E"
-		],
-		"BACKGROUND_MODIFIER_SELECTED": [
-			"#06D50E"
-		],
-		"BACKGROUND_MODIFIER_ACCENT": [
-			"#06D50E"
-		],
-   "CHAT_INPUT_CONTAINER_BACKGROUND": [
-     "#0B130B"
-   ],
-		"INTERACTIVE_NORMAL": [
-			"#06D50E"
-		],
-		"INTERACTIVE_HOVER": [
-			"#06D50E"
-		],
-		"INTERACTIVE_ACTIVE": [
-			"#06D50E"
-		],
-		"INTERACTIVE_MUTED": [
-			"#06D50E"
-		],
-		"CHANNELTEXTAREA_BACKGROUND": [
-			"#06D50E"
-		],
-		"CHANNEL_ICON": [
-			"#06D50E"
-		],
-		"CHANNELS_DEFAULT": [
-			"#06D50E"
-		],
-		"CHAT_BACKGROUND": [
-			"#0B130B"
-		],
-		"SPOILER_HIDDEN_BACKGROUND": [
-			"#06D50E"
-		],
-		"KEYBOARD": [
-			"#0B130B"
-		],
-		"ACTIVITY_CARD_BACKGROUND": [
-			"#0B130B"
-		],
-		"REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-			"#0B130B"
-		],
-		"REDESIGN_ACTIVITY_CARD_BORDER": [
-			"#06D50E"
-		],
-		"BG_MOD_FAINT": [
-			"#0B130B"
-		],
-		"BG_MOD_SUBTLE": [
-			"#0B130B"
-		],
-		"BG_MOD_STRONG": [
-			"#0B130B"
-		],
-		"CARD_PRIMARY_BG": [
-			"#0B130B"
-		],
-		"CARD_PRIMARY_PRESSED_BG": [
-			"#0B130B"
-		],
-		"CARD_SECONDARY_BG": [
-			"#0B130B"
-		],
-		"CARD_SECONDARY_PRESSED_BG": [
-			"#0B130B"
-		],
-		"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-			"#0B130B"
-		],
-		"REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-			"#0B130B"
-		],
-		"REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-			"#0B130B"
-		],
-		"REDESIGN_BUTTON_SECONDARY_BORDER": [
-			"#06D50E"
-		],
-		"BORDER_FAINT": [
-			"#06D50E"
-		],
-		"BORDER_STRONG": [
-			"#06D50E"
-		],
-		"BORDER_SUBTLE": [
-			"#06D50E"
-		]
-	},
-	"rawColors": {
-		"BRAND_260": "#06D50E",
-		"BRAND_360": "#06D50E",
-		"BRAND_500": "#06D50E",
-		"GREEN_100": "#06D50E",
-		"GREEN_130": "#06D50E",
-		"GREEN_160": "#06D50E",
-		"GREEN_200": "#06D50E",
-		"GREEN_230": "#06D50E",
-		"GREEN_260": "#06D50E",
-		"GREEN_300": "#06D50E",
-		"GREEN_330": "#06D50E",
-		"GREEN_345": "#06D50E",
-		"GREEN_360": "#06D50E",
-		"GREEN_400": "#06D50E",
-		"GREEN_430": "#06D50E",
-		"GREEN_460": "#06D50E",
-		"GREEN_500": "#06D50E",
-		"GREEN_530": "#06D50E",
-		"GREEN_560": "#06D50E",
-		"GREEN_600": "#06D50E",
-		"GREEN_630": "#06D50E",
-		"GREEN_660": "#06D50E",
-		"GREEN_700": "#06D50E",
-		"GREEN_730": "#06D50E",
-		"GREEN_760": "#06D50E",
-		"GREEN_800": "#06D50E",
-		"GREEN_830": "#06D50E",
-		"GREEN_860": "#06D50E",
-		"GREEN_900": "#06D50E",
-		"GUILD_BOOSTING_PINK": "#06D50E",
-		"GUILD_BOOSTING_PURPLE": "#06D50E",
-		"GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#06D50E",
-		"PRIMARY_100": "#06D50E",
-		"PRIMARY_230": "#06D50E",
-		"PRIMARY_300": "#06D50E",
-		"PRIMARY_360": "#06D50E",
-		"PRIMARY_400": "#06D50E",
-		"PRIMARY_460": "#000000",
-		"PRIMARY_500": "#06D50E",
-		"PRIMARY_600": "#000000",
-		"PRIMARY_630": "#000000",
-		"PRIMARY_660": "#000000",
-		"PRIMARY_700": "#000000",
-		"PRIMARY_800": "#000000",
-		"RED_260": "#06D50E",
-		"RED_300": "#06D50E",
-		"RED_330": "#06D50E",
-		"RED_345": "#06D50E",
-		"RED_360": "#06D50E",
-		"RED_400": "#06D50E",
-		"RED_430": "#06D50E",
-		"RED_460": "#06D50E",
-		"RED_500": "#06D50E",
-		"RED_530": "#06D50E",
-		"RED_560": "#06D50E",
-		"RED_600": "#06D50E",
-		"RED_630": "#06D50E",
-		"RED_660": "#06D50E",
-		"RED_700": "#06D50E",
-		"YELLOW_100": "#06D50E",
-		"YELLOW_130": "#06D50E",
-		"YELLOW_160": "#06D50E",
-		"YELLOW_200": "#06D50E",
-		"YELLOW_230": "#06D50E",
-		"YELLOW_260": "#06D50E",
-		"YELLOW_300": "#06D50E",
-		"YELLOW_330": "#06D50E",
-		"YELLOW_345": "#06D50E",
-		"YELLOW_360": "#06D50E",
-		"YELLOW_400": "#06D50E",
-		"YELLOW_430": "#06D50E",
-		"YELLOW_460": "#06D50E",
-		"YELLOW_500": "#06D50E",
-		"YELLOW_530": "#06D50E",
-		"YELLOW_560": "#06D50E",
-		"YELLOW_600": "#06D50E",
-		"YELLOW_630": "#06D50E",
-		"YELLOW_660": "#06D50E",
-		"YELLOW_700": "#06D50E",
-		"YELLOW_730": "#06D50E",
-		"YELLOW_760": "#06D50E",
-		"YELLOW_800": "#06D50E",
-		"YELLOW_830": "#06D50E",
-		"YELLOW_860": "#06D50E",
-		"YELLOW_900": "#06D50E",
-		"WHITE_500": "#06D50E",
-		"PLUM_13": "#06D50E",
-		"PLUM_15": "#06D50E",
-		"PLUM_16": "#000000",
-		"PLUM_17": "#06D50E",
-		"PLUM_18": "#06D50E",
-		"PLUM_19": "#000000",
-		"PLUM_20": "#000000",
-		"PLUM_22": "#000000",
-		"PLUM_23": "#06D50E",
-		"BLACK_500": "#0B130B"
-	},
-	"plus": {
-		"version": "0",
-		"mentionLineColor": "#06D50E",
-   "customOverlays": true,
-		"iconpack": "md3",
-		"icons": {
-	 	"StatusStreaming": "#06D50E",
-		"StatusMobileOnline": "#06D50E",
-		"StatusIdle": "#06D50E",
-		"StatusDND": "#06D50E",
-		"StatusOffline": "#06D50E",
-		"StatusOnline": "#06D50E",
-   "ic_mic_24px": "#06D50E",
-   "ic_mic_neutral": "#06D50E",
-   "mic": "#06D50E",
-   "img_nitro_remixing": "#06D50E",
-   "ic_gift": "#06D50E",
-   "ic_add_18px": "#06D50E",
-   "arrow-right": "#06D50E",
-   "add_white": "#06D50E",
-   "ic_send": "#06D50E",
-   "AppsIcon": "#06D50E",
-   "ArrowLargeRightIcon": "#06D50E",
-   "ActivitiesIcon": "#06D50E",
-   "ImagePlusIcon": "#06D50E",
-   "ic_upload_24px": "#06D50E",
-   "ImageFileIcon": "#06D50E",
-   "CirclePlusIcon-primary": "#06D50E",
-   "img_guild_folder": "#06D50E",
-   "ic_image_upload": "#06D50E",
-   "ic_upload_image_40px": "#06D50E",
-   "ic_icon_upload": "#06D50E",
-   "ic_gift_24px": "#06D50E",
-   "ic_mic_dark_circle": "#06D50E",
-   "ic_mic_light_circle": "#06D50E",
-   "MicrophoneIcon": "#06D50E",
-   "MicrophoneSlashIcon": "#06D50E",
-   "MicrophoneArrowRightIcon": "#06D50E",
-   "ic_add_24px": "#06D50E",
-   "ic_add_circle": "#06D50E",
-   "hub-add": "#06D50E",
-   "GiftIcon": "#06D50E",
-   "PlusLargeIcon": "06D50E"
+  "name": "Fallout-Terminal",
+  "version": "0.4.94",
+  "description": "A Fallout Terminal theme. Originally planned to be a port of (https://github.com/Starless-5338/Aliucord-theme_Fallout-terminal), this theme for Pyoncord was inspired by starless' work and written from the ground up for Bunny/Pyoncord!. (New and In-Progress)",
+  "authors": [
+    {
+      "name": "@kiyolain",
+      "id": "1129994477960962158"
+    }
+  ],
+  "semanticColors": {
+    "ALERT_BG": ["#0B130B"],
+    "ANDROID_NAVIGATION_BAR_BACKGROUND": ["#0B130B"],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#0B130B"],
+    "ANDROID_RIPPLE": ["#06D50E"],
+    "TEXT_BRAND": ["#05A30B"],
+    "TEXT_NORMAL": ["#06D50E"],
+    "HEADER_SECONDARY": ["#06D50E"],
+    "HEADER_PRIMARY": ["#06D50E"],
+    "TEXT_LINK_LOW_SATURATION": ["#06D50E"],
+    "TEXT_LOW_CONTRAST": ["#06D50E"],
+    "TEXT_MESSAGE_PREVIEW_LOW_SAT": ["#06D50E"],
+    "TEXT_MUTED_ON_DEFAULT": ["#05A30B"],
+    "TEXT_POSITIVE": ["#06D50E"],
+    "TEXTBOX_MARKDOWN_SYNTAX": ["#06D50E"],
+    "THEME_LOCKED_BLUR_FALLBACK": ["#0B130B"],
+    "THREAD_CHANNEL_SPINE": ["#06D50E"],
+    "TOAST_BG": ["#142314"],
+    "TYPING_INDICATOR_BG": ["#142314"],
+    "DIVIDER_STRONG": ["#06D50E"],
+    "DIVIDER_SUBTLE": ["#06D50E"],
+    "EMBED_BACKGROUND": ["#0B130B"],
+    "EMBED_BACKGROUND_ALTERNATE": ["#0B130B"],
+    "EMBED_TITLE": ["#06D50E"],
+    "TEXT_LINK": ["#06D50E"],
+    "TEXT_PRIMARY": ["#06D50E"],
+    "TEXT_SECONDARY": ["#06D50E"],
+    "TEXT_MUTED": ["#05A30B"],
+    "TEXT_DANGER": ["#06D50E"],
+    "TEXT_SUCCESS": ["#06D50E"],
+    "TEXT_WARNING": ["#06D50E"],
+    "BG_BACKDROP": ["#0B130B"],
+    "PANEL_BG": ["#0B130B"],
+    "HOME_BACKGROUND": ["#0B130B"],
+    "HOME_CARD_RESTING_BORDER": ["#06D50E"],
+    "BG_SURFACE_OVERLAY_TMP": ["#0B130B"],
+    "BACKGROUND_PRIMARY": ["#0B130B"],
+    "BACKGROUND_SECONDARY": ["#0B130B"],
+    "BACKGROUND_SECONDARY_ALT": ["#0B130B"],
+    "BACKGROUND_TERTIARY": ["#0B130B"],
+    "BACKGROUND_ACCENT": ["#06D50E"],
+    "BACKGROUND_FLOATING": ["#0B130B"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0B130B"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#06D50E"],
+    "BACKGROUND_NESTED_FLOATING": ["#0B130B"],
+    "BACKGROUND_MESSAGE_HOVER": ["#06D50E"],
+    "BACKGROUND_MODIFIER_HOVER": ["#06D50E"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#06D50E"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#06D50E"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#0B130B"],
+    "INTERACTIVE_NORMAL": ["#06D50E"],
+    "INTERACTIVE_HOVER": ["#06D50E"],
+    "INTERACTIVE_ACTIVE": ["#06D50E"],
+    "INTERACTIVE_MUTED": ["#06D50E"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#06D50E"],
+    "CHANNEL_ICON": ["#06D50E"],
+    "CHANNELS_DEFAULT": ["#06D50E"],
+    "CHAT_BACKGROUND": ["#0B130B"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#142314"],
+    "KEYBOARD": ["#0B130B"],
+    "ACTIVITY_CARD_BACKGROUND": ["#0B130B"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#0B130B"],
+    "REDESIGN_ACTIVITY_CARD_BORDER": ["#06D50E"],
+    "BG_MOD_FAINT": ["#0B130B"],
+    "BG_MOD_SUBTLE": ["#0B130B"],
+    "BG_MOD_STRONG": ["#0B130B"],
+    "CARD_PRIMARY_BG": ["#0B130B"],
+    "CARD_PRIMARY_PRESSED_BG": ["#0B130B"],
+    "CARD_SECONDARY_BG": ["#0B130B"],
+    "CARD_SECONDARY_PRESSED_BG": ["#0B130B"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#142314"],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": ["#142314"],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#142314"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#06D50E"],
+    "BORDER_FAINT": ["#06D50E"],
+    "BORDER_STRONG": ["#06D50E"],
+    "BORDER_SUBTLE": ["#06D50E"],
+    "MENTION_BACKGROUND": ["#142314"],
+    "MENTION_FOREGROUND": ["#06D50E"]
 
-		}
-	},
-	"spec": 2
+  },
+  "rawColors": {
+    "BRAND_260": "#06D50E",
+    "BRAND_360": "#06D50E",
+    "BRAND_500": "#06D50E",
+    "GREEN_100": "#06D50E",
+    "GREEN_130": "#06D50E",
+    "GREEN_160": "#06D50E",
+    "GREEN_200": "#06D50E",
+    "GREEN_230": "#06D50E",
+    "GREEN_260": "#06D50E",
+    "GREEN_300": "#06D50E",
+    "GREEN_330": "#06D50E",
+    "GREEN_345": "#06D50E",
+    "GREEN_360": "#06D50E",
+    "GREEN_400": "#06D50E",
+    "GREEN_430": "#06D50E",
+    "GREEN_460": "#06D50E",
+    "GREEN_500": "#06D50E",
+    "GREEN_530": "#06D50E",
+    "GREEN_560": "#06D50E",
+    "GREEN_600": "#06D50E",
+    "GREEN_630": "#06D50E",
+    "GREEN_660": "#06D50E",
+    "GREEN_700": "#06D50E",
+    "GREEN_730": "#06D50E",
+    "GREEN_760": "#06D50E",
+    "GREEN_800": "#06D50E",
+    "GREEN_830": "#06D50E",
+    "GREEN_860": "#06D50E",
+    "GREEN_900": "#06D50E",
+    "GUILD_BOOSTING_PINK": "#06D50E",
+    "GUILD_BOOSTING_PURPLE": "#06D50E",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#06D50E",
+    "PRIMARY_100": "#06D50E",
+    "PRIMARY_230": "#06D50E",
+    "PRIMARY_300": "#06D50E",
+    "PRIMARY_360": "#06D50E",
+    "PRIMARY_400": "#06D50E",
+    "PRIMARY_460": "#000000",
+    "PRIMARY_500": "#06D50E",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "RED_260": "#06D50E",
+    "RED_300": "#06D50E",
+    "RED_330": "#06D50E",
+    "RED_345": "#06D50E",
+    "RED_360": "#06D50E",
+    "RED_400": "#06D50E",
+    "RED_430": "#06D50E",
+    "RED_460": "#06D50E",
+    "RED_500": "#06D50E",
+    "RED_530": "#06D50E",
+    "RED_560": "#06D50E",
+    "RED_600": "#06D50E",
+    "RED_630": "#06D50E",
+    "RED_660": "#06D50E",
+    "RED_700": "#06D50E",
+    "YELLOW_100": "#06D50E",
+    "YELLOW_130": "#06D50E",
+    "YELLOW_160": "#06D50E",
+    "YELLOW_200": "#06D50E",
+    "YELLOW_230": "#06D50E",
+    "YELLOW_260": "#06D50E",
+    "YELLOW_300": "#06D50E",
+    "YELLOW_330": "#06D50E",
+    "YELLOW_345": "#06D50E",
+    "YELLOW_360": "#06D50E",
+    "YELLOW_400": "#06D50E",
+    "YELLOW_430": "#06D50E",
+    "YELLOW_460": "#06D50E",
+    "YELLOW_500": "#06D50E",
+    "YELLOW_530": "#06D50E",
+    "YELLOW_560": "#06D50E",
+    "YELLOW_600": "#06D50E",
+    "YELLOW_630": "#06D50E",
+    "YELLOW_660": "#06D50E",
+    "YELLOW_700": "#06D50E",
+    "YELLOW_730": "#06D50E",
+    "YELLOW_760": "#06D50E",
+    "YELLOW_800": "#06D50E",
+    "YELLOW_830": "#06D50E",
+    "YELLOW_860": "#06D50E",
+    "YELLOW_900": "#06D50E",
+    "WHITE_500": "#06D50E",
+    "PLUM_13": "#06D50E",
+    "PLUM_15": "#06D50E",
+    "PLUM_16": "#142314",
+    "PLUM_17": "#06D50E",
+    "PLUM_18": "#142314",
+    "PLUM_19": "#000000",
+    "PLUM_20": "#0B130B",
+    "PLUM_22": "#000000",
+    "PLUM_23": "#06D50E",
+    "PLUM_24": "#0B130B",
+    "BLACK_500": "#0B130B"
+  },
+  "spec": 2
 }
